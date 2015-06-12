@@ -1,0 +1,16 @@
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/gui/Controller.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/db/DBHellper.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/data/model/elements/IdElement.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/data/model/elements/BaseElement.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/gui/Main.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/data/model/elements/Type.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/gui/controllers/MainController.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/data/model/Row.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/resources/ResourceHelper.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/gui/controllers/model/Element.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/data/model/elements/IntElement.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/resources/EProperty.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/data/model/elements/RowBuilder.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/gui/model/Test.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/data/model/Table.java
+/Users/olehkozlovskyi/Documents/programming/Java_projects/mySQLClient/src/main/java/my/sql/gui/model/PropertiesManager.java
